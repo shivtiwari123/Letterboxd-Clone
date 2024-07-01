@@ -1,8 +1,9 @@
-# React + Vite
+# Letterboxd Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is an attempt at cloning Letterboxd, which I'm sure most cinephiles would be aware of. It is a very propular movie database/review/rating website and very highly revered as well.
 
-Currently, two official plugins are available:
+So, coming to the landing page, this is how it looks
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/shivtiwari123/Letterboxd-Clone/assets/92432665/69ae22a1-062d-47bb-87e5-f03ae2acfe89)
+
+
