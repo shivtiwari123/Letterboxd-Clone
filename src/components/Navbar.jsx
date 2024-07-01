@@ -79,7 +79,7 @@ const Navbar = () => {
                   ) : (
                     <Avatar
                       size={"sm"}
-                      bg="gray.800"
+                      bg="gray.400"
                       as="button"
                       onClick={handleGoogleLogin}
                     />
