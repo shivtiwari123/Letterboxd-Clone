@@ -39,7 +39,7 @@ const Navbar = () => {
                             <MenuButton>
                                 <Avatar bg={"red.500"} color={"white"} size={"sm"} name={user?.email}/>
                             </MenuButton>
-                            <MenuList color={"gray.800"}>
+                            <MenuList color={"gray.400"}>
                                 <Link to="/watchlist">
                                     <MenuItem>Watchlist</MenuItem>
                                 </Link>
@@ -79,7 +79,7 @@ const Navbar = () => {
                   ) : (
                     <Avatar
                       size={"sm"}
-                      bg="gray.400"
+                      bg="gray.800"
                       as="button"
                       onClick={handleGoogleLogin}
                     />
